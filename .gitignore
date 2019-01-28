@@ -74,6 +74,3 @@ typings/
 .idea/
 *.swp
 *.iml
-
-dist
-umd
