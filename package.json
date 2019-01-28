@@ -63,10 +63,6 @@
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3"
   },
-  "engines": {
-    "node": "8.x",
-    "yarn": "1.x"
-  },
   "files": [
     "README.md",
     "CHANGELOG.md",
